@@ -1,2 +1,2 @@
 # MSAClusters
-Multiple sequence alignment of atomic cluster elements 
+Multiple Sequence Alignment of Atomic Cluster Elements 
