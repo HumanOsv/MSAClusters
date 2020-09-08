@@ -1,0 +1,648 @@
+SEQ000000
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |   |   |   |   |   |   |   |   | 
+P> Sn0 Bi1 Ge2 Ge3 Ge8 Ge5 Ge6 Ge7 Ge4 
+    *   *   *   *   -   *   *   *   - 
+ Matching rate    : 77.78  
+ Similarity score : 100.00 
+ Total score      : 0.89 
+
+SEQ000001
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |   |   | 
+P> Bi1 Sn0 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    -   -   *   *   *   *   *   *   * 
+ Matching rate    : 77.78  
+ Similarity score : 77.78 
+ Total score      : 0.78 
+
+SEQ000002
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |       |   |   |   |       |   | 
+P> Sn0 Ge6 Ge2 Ge3 Ge4 Ge5 Bi1 Ge7 Ge8 
+    *   -   *   *   *   *   -   *   * 
+ Matching rate    : 77.78  
+ Similarity score : 77.78 
+ Total score      : 0.78 
+
+SEQ000003
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |       |   |   |   |   |   | 
+P> Ge2 Bi1 Sn0 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    -   *   -   *   *   *   *   *   * 
+ Matching rate    : 77.78  
+ Similarity score : 77.78 
+ Total score      : 0.78 
+
+SEQ000004
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |   |   |   |   |       |   | 
+P> Ge6 Bi1 Ge2 Ge3 Ge4 Ge5 Sn0 Ge7 Ge8 
+    -   *   *   *   *   *   -   *   * 
+ Matching rate    : 77.78  
+ Similarity score : 77.78 
+ Total score      : 0.78 
+
+SEQ000005
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |       |   |       |   |   |   | 
+P> Sn0 Ge4 Ge2 Ge3 Bi1 Ge5 Ge6 Ge7 Ge8 
+    *   -   *   *   -   *   *   *   * 
+ Matching rate    : 77.78  
+ Similarity score : 77.78 
+ Total score      : 0.78 
+
+SEQ000006
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |       |   |   |   |   |   |     
+P> Sn0 Ge8 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Bi1 
+    *   -   *   *   *   *   *   *   - 
+ Matching rate    : 77.78  
+ Similarity score : 77.78 
+ Total score      : 0.78 
+
+SEQ000007
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |   |   |   |       |   |   | 
+P> Ge2 Bi1 Ge5 Ge3 Ge4 Sn0 Ge6 Ge7 Ge8 
+    -   *   -   *   *   -   *   *   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000008
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |   |   |   |   |   |   |     
+P> Ge5 Bi1 Ge2 Ge3 Ge4 Ge8 Ge6 Ge7 Sn0 
+    -   *   *   *   *   -   *   *   - 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000009
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |       |   |   |   |   |       | 
+P> Sn0 Ge6 Ge2 Ge3 Ge4 Ge5 Ge7 Bi1 Ge8 
+    *   -   *   *   *   *   -   -   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000010
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |   |   |   |   |   |       | 
+P> Ge3 Bi1 Ge2 Ge7 Ge4 Ge5 Ge6 Sn0 Ge8 
+    -   *   *   -   *   *   *   -   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000011
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |       |   |   |       |   |   | 
+P> Sn0 Ge6 Ge2 Ge3 Ge4 Bi1 Ge5 Ge7 Ge8 
+    *   -   *   *   *   -   -   *   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000012
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |           |   |   |   |   |   | 
+P> Sn0 Ge7 Bi1 Ge3 Ge4 Ge5 Ge6 Ge2 Ge8 
+    *   -   -   *   *   *   *   -   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000013
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |   |       |   |   |   |   | 
+P> Ge8 Bi1 Ge2 Sn0 Ge4 Ge5 Ge6 Ge7 Ge3 
+    -   *   *   -   *   *   *   *   - 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000014
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+    |       |       |   |   |   |   | 
+P> Sn0 Ge2 Ge3 Bi1 Ge4 Ge5 Ge6 Ge7 Ge8 
+    *   -   -   -   *   *   *   *   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000015
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+        |   |   |       |   |   |   | 
+P> Ge2 Bi1 Ge4 Ge3 Sn0 Ge5 Ge6 Ge7 Ge8 
+    -   *   -   *   -   *   *   *   * 
+ Matching rate    : 66.67  
+ Similarity score : 77.78 
+ Total score      : 0.72 
+
+SEQ000016
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |       |   | 
+P> Bi1 Ge6 Ge2 Ge3 Ge4 Ge5 Sn0 Ge7 Ge8 
+    -   -   *   *   *   *   -   *   * 
+ Matching rate    : 66.67  
+ Similarity score : 66.67 
+ Total score      : 0.67 
+
+SEQ000017
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |       | 
+P> Bi1 Ge7 Ge2 Ge3 Ge4 Ge5 Ge6 Sn0 Ge8 
+    -   -   *   *   *   *   *   -   * 
+ Matching rate    : 66.67  
+ Similarity score : 66.67 
+ Total score      : 0.67 
+
+SEQ000018
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |       | 
+P> Ge2 Sn0 Ge7 Ge3 Ge4 Ge5 Ge6 Bi1 Ge8 
+    -   -   -   *   *   *   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000019
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |   |   |   | 
+P> Bi1 Ge5 Ge2 Sn0 Ge4 Ge3 Ge6 Ge7 Ge8 
+    -   -   *   -   *   -   *   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000020
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |   |   |   | 
+P> Bi1 Ge7 Sn0 Ge3 Ge4 Ge5 Ge6 Ge2 Ge8 
+    -   -   -   *   *   *   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000021
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |       |   | 
+P> Ge8 Sn0 Ge2 Ge3 Ge4 Ge5 Bi1 Ge7 Ge6 
+    -   -   *   *   *   *   -   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000022
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |   |     
+P> Bi1 Ge3 Ge2 Ge8 Ge4 Ge5 Ge6 Ge7 Sn0 
+    -   -   *   -   *   *   *   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000023
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |   |   |   | 
+P> Ge2 Sn0 Ge3 Bi1 Ge4 Ge5 Ge6 Ge7 Ge8 
+    -   -   -   -   *   *   *   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000024
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |   |     
+P> Ge3 Sn0 Ge2 Ge8 Ge4 Ge5 Ge6 Ge7 Bi1 
+    -   -   *   -   *   *   *   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000025
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |   |   |   | 
+P> Ge8 Sn0 Bi1 Ge3 Ge4 Ge5 Ge6 Ge7 Ge2 
+    -   -   -   *   *   *   *   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000026
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |   |   |   | 
+P> Ge8 Sn0 Ge2 Ge3 Bi1 Ge5 Ge6 Ge7 Ge4 
+    -   -   *   *   -   *   *   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000027
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |   |   |   | 
+P> Bi1 Ge7 Ge2 Ge3 Sn0 Ge5 Ge6 Ge4 Ge8 
+    -   -   *   *   -   *   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 66.67 
+ Total score      : 0.61 
+
+SEQ000028
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |       |   |   | 
+P> Bi1 Ge5 Ge2 Ge7 Ge4 Sn0 Ge6 Ge3 Ge8 
+    -   -   *   -   *   -   *   -   * 
+ Matching rate    : 44.44  
+ Similarity score : 66.67 
+ Total score      : 0.56 
+
+SEQ000029
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |         
+P> Ge8 Ge7 Ge2 Ge3 Ge4 Ge5 Ge6 Bi1 Sn0 
+    -   -   *   *   *   *   *   -   - 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000030
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |       |   |   | 
+P> Ge3 Sn0 Ge5 Ge2 Ge4 Bi1 Ge6 Ge7 Ge8 
+    -   -   -   -   *   -   *   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 66.67 
+ Total score      : 0.56 
+
+SEQ000031
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |           |   | 
+P> Ge5 Ge6 Ge2 Ge3 Ge4 Bi1 Sn0 Ge7 Ge8 
+    -   -   *   *   *   -   -   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000032
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |   |       | 
+P> Ge7 Ge4 Ge2 Ge3 Sn0 Ge5 Ge6 Bi1 Ge8 
+    -   -   *   *   -   *   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000033
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |       |   | 
+P> Ge6 Ge4 Ge2 Ge3 Sn0 Ge5 Bi1 Ge7 Ge8 
+    -   -   *   *   -   *   -   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000034
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |       |   |   |   | 
+P> Ge2 Ge4 Sn0 Ge3 Bi1 Ge5 Ge6 Ge7 Ge8 
+    -   -   -   *   -   *   *   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000035
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |       |   |     
+P> Ge8 Ge5 Ge2 Ge3 Ge4 Bi1 Ge6 Ge7 Sn0 
+    -   -   *   *   *   -   *   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000036
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |       |       | 
+P> Ge5 Ge7 Ge2 Ge3 Ge4 Bi1 Ge6 Sn0 Ge8 
+    -   -   *   *   *   -   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000037
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |           |   | 
+P> Ge5 Ge6 Ge2 Ge3 Ge4 Sn0 Bi1 Ge7 Ge8 
+    -   -   *   *   *   -   -   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000038
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |   |       | 
+P> Ge2 Ge7 Sn0 Ge3 Ge4 Ge5 Ge6 Bi1 Ge8 
+    -   -   -   *   *   *   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000039
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |   |       | 
+P> Ge7 Ge2 Bi1 Ge3 Ge4 Ge5 Ge6 Sn0 Ge8 
+    -   -   -   *   *   *   *   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000040
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |       |   |     
+P> Ge8 Ge5 Ge2 Ge3 Ge4 Sn0 Ge6 Ge7 Bi1 
+    -   -   *   *   *   -   *   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000041
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |       |   | 
+P> Ge6 Ge2 Sn0 Ge3 Ge4 Ge5 Bi1 Ge7 Ge8 
+    -   -   -   *   *   *   -   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000042
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |       |   |   | 
+P> Ge5 Ge2 Bi1 Ge3 Ge4 Sn0 Ge6 Ge7 Ge8 
+    -   -   -   *   *   -   *   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000043
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |       |     
+P> Ge6 Ge8 Ge2 Ge3 Ge4 Ge5 Bi1 Ge7 Sn0 
+    -   -   *   *   *   *   -   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000044
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |           | 
+P> Ge7 Ge6 Ge2 Ge3 Ge4 Ge5 Sn0 Bi1 Ge8 
+    -   -   *   *   *   *   -   -   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000045
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                    |   |   |   |   | 
+P> Ge3 Ge2 Sn0 Bi1 Ge4 Ge5 Ge6 Ge7 Ge8 
+    -   -   -   -   *   *   *   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000046
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |       |     
+P> Ge8 Ge6 Ge2 Ge3 Ge4 Ge5 Sn0 Ge7 Bi1 
+    -   -   *   *   *   *   -   *   - 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000047
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |       |   |   | 
+P> Ge2 Ge5 Sn0 Ge3 Ge4 Bi1 Ge6 Ge7 Ge8 
+    -   -   -   *   *   -   *   *   * 
+ Matching rate    : 55.56  
+ Similarity score : 55.56 
+ Total score      : 0.56 
+
+SEQ000048
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |   |   |     
+P> Ge7 Ge8 Ge2 Ge3 Sn0 Ge5 Ge6 Ge4 Bi1 
+    -   -   *   *   -   *   *   -   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000049
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |       |   | 
+P> Ge3 Ge6 Ge2 Ge4 Bi1 Ge5 Sn0 Ge7 Ge8 
+    -   -   *   -   -   *   -   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000050
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |   |   |     
+P> Ge3 Ge4 Ge2 Ge8 Bi1 Ge5 Ge6 Ge7 Sn0 
+    -   -   *   -   -   *   *   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000051
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |           |   |   | 
+P> Ge6 Ge5 Ge2 Ge3 Sn0 Bi1 Ge4 Ge7 Ge8 
+    -   -   *   *   -   -   -   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000052
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |       |       | 
+P> Ge2 Ge7 Ge5 Ge3 Ge4 Sn0 Ge6 Bi1 Ge8 
+    -   -   -   *   *   -   *   -   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000053
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                    |   |   |   |   | 
+P> Ge8 Ge2 Bi1 Sn0 Ge4 Ge5 Ge6 Ge7 Ge3 
+    -   -   -   -   *   *   *   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000054
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |   |       | 
+P> Ge7 Ge5 Ge2 Bi1 Ge4 Ge3 Ge6 Sn0 Ge8 
+    -   -   *   -   *   -   *   -   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000055
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |   |   |     
+P> Ge6 Ge8 Ge2 Sn0 Ge4 Ge5 Ge3 Ge7 Bi1 
+    -   -   *   -   *   *   -   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000056
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |       |   | 
+P> Ge3 Ge7 Ge2 Sn0 Ge4 Ge5 Bi1 Ge6 Ge8 
+    -   -   *   -   *   *   -   -   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000057
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |   |   |     
+P> Ge4 Ge2 Sn0 Ge3 Ge8 Ge5 Ge6 Ge7 Bi1 
+    -   -   -   *   -   *   *   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000058
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |       |   | 
+P> Ge6 Ge2 Ge3 Bi1 Ge4 Ge5 Sn0 Ge7 Ge8 
+    -   -   -   -   *   *   -   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000059
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |           |   |   | 
+P> Ge3 Ge4 Ge2 Ge5 Bi1 Sn0 Ge6 Ge7 Ge8 
+    -   -   *   -   -   -   *   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000060
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |       |   |   | 
+P> Ge7 Ge5 Ge2 Sn0 Ge4 Bi1 Ge6 Ge3 Ge8 
+    -   -   *   -   *   -   *   -   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000061
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |       |   |       | 
+P> Ge3 Ge7 Ge2 Ge4 Bi1 Ge5 Ge6 Sn0 Ge8 
+    -   -   *   -   -   *   *   -   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000062
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |       |   | 
+P> Ge2 Ge4 Bi1 Ge3 Ge6 Ge5 Sn0 Ge7 Ge8 
+    -   -   -   *   -   *   -   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000063
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |   |   |     
+P> Ge3 Ge4 Ge2 Bi1 Ge8 Ge5 Ge6 Ge7 Sn0 
+    -   -   *   -   -   *   *   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000064
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |           |   |   |   | 
+P> Ge5 Ge3 Ge2 Sn0 Bi1 Ge4 Ge6 Ge7 Ge8 
+    -   -   *   -   -   -   *   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000065
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |   |   |       | 
+P> Ge7 Ge8 Ge2 Sn0 Ge4 Ge5 Ge6 Bi1 Ge3 
+    -   -   *   -   *   *   *   -   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000066
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |   |         
+P> Ge5 Ge8 Ge2 Ge3 Ge4 Ge7 Ge6 Sn0 Bi1 
+    -   -   *   *   *   -   *   -   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000067
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |   |   |   |   |     
+P> Ge4 Ge8 Bi1 Ge3 Ge2 Ge5 Ge6 Ge7 Sn0 
+    -   -   -   *   -   *   *   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000068
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |           |   |   |   | 
+P> Ge3 Ge8 Ge2 Bi1 Sn0 Ge5 Ge6 Ge7 Ge4 
+    -   -   *   -   -   *   *   *   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000069
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |       |       |   |   | 
+P> Ge2 Ge5 Ge3 Bi1 Ge4 Sn0 Ge6 Ge7 Ge8 
+    -   -   -   -   *   -   *   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000070
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+                |       |   |   |   | 
+P> Ge2 Ge3 Bi1 Ge4 Sn0 Ge5 Ge6 Ge7 Ge8 
+    -   -   -   -   -   *   *   *   * 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
+SEQ000071
+O> Sn0 Bi1 Ge2 Ge3 Ge4 Ge5 Ge6 Ge7 Ge8 
+            |   |   |   |           | 
+P> Ge8 Ge6 Ge2 Ge3 Ge4 Ge5 Bi1 Sn0 Ge7 
+    -   -   *   *   *   *   -   -   - 
+ Matching rate    : 44.44  
+ Similarity score : 55.56 
+ Total score      : 0.50 
+
