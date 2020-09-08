@@ -1,2 +1,3 @@
 # MSAClusters
-Multiple Sequence Alignment of Atomic Cluster Elements 
+
+Multiple sequence alignment of atomic cluster elements. Novel program for the search atom-permutation on clusters
