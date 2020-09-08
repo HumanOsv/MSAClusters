@@ -344,7 +344,6 @@ for ( my $i = 0 ; $i < scalar (@arrayIndex) ; $i = $i + 1 ){
 	print FILE "%NProc=8\n";
 	print FILE "%mem=16GB\n";
 	print FILE "# PBE1PBE/SDDAll  opt=(Cartesian,MaxCycles=512) EmpiricalDispersion=GD3 freq \n";
-  my $indexTmp = $arrayIndex[$i];
 	print FILE "\n$SeqName  $totalSort[$indexTmp]\n";
 	print FILE "\n";
 	print FILE "-3 1\n";
